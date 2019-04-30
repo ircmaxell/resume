@@ -13,9 +13,33 @@ Core contributor to the [PHP Programming Language](https://www.php.net) driving 
 
 Additionally, I was involved in the creation of a large number of other RFCs in an advisory or consultory manner. 
 
+# Notable Projects
+
+## password_compat
+
+The [`password_compat`](https://github.com/ircmaxell/password_compat) project polyfills the Password Hash functionality added to PHP 5.5 back to lower version (PHP 5.3 and 5.4 specifically).
+
+## RandomLib
+
+[RandomLib](https://github.com/ircmaxell/RandomLib) made generating cryptographically secure random numbers in PHP easy. Since PHP 7 introduced the `random_int()` family of functions, the project is no longer needed.
+
+# Compiler Projects
+
+## PHPPHP
+
+[PHPPHP](https://github.com/ircmaxell/PHPPHP) implemented PHP's engine in PHP itself. It did not aim to be production worthy, but instead focused on education.
+
+## Recki-CT
+
+[Recki-CT](https://github.com/google/recki-ct) was an initial attempt at building an Ahead of Time Compiler for PHP. It used a pluggable backend system to generate machine code.
+
+## PHP-Compiler
+
+[PHP-Compiler](https://github.com/ircmaxell/php-compiler/) is a new attempt at an Ahead of Time Compiler for PHP, based around PHP 7.4's FFI system and LLVM.
+
 # Other Projects
 
-[Github](https://github.com/ircmaxell?tab=repositories) and [Packagist](https://packagist.org/packages/ircmaxell/) detail the primary Open Source PHP packages that I built and shipped.
+[Github](https://github.com/ircmaxell?tab=repositories) and [Packagist](https://packagist.org/packages/ircmaxell/) detail the primary Open Source PHP packages that I built and shipped. There aare 
 
 # Other Contributions
 
