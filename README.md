@@ -1,4 +1,4 @@
-# Anthony's Ferrara Resume
+# Anthony Ferrara's Resume
 
 ## How to find me
 

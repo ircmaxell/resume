@@ -56,7 +56,6 @@ A talk about PHP an community
 > In this talk, we'll explore some of the tools available for measuring software quality. We'll dive into some of the theory behind the metrics that they analyze while looking at some real world applications of those metrics. We'll also explore how to use these tools to gain valuable insight into legacy codebases. Finally, we'll look into methods to integrate those metrics into your development workflow to help improve the quality of the applications that you build.
 
  * [PHPNW 2014](https://joind.in/event/northeast-php-2014/code-quality-by-the-numbers) - _Speaker_
-# Workshop
  * [Sunshine PHP 2014](https://joind.in/event/sunshinephp-2014/development-by-the-numbers) - _Speaker_
  * [PHPBenelux 2014](https://joind.in/event/phpbenelux-conference-2014/development-by-the-numbers) - _Speaker_
  * [Symfony Live Berlin 2013](https://joind.in/event/symfony-live-berlin-2013/development-by-the-numbers) - _Speaker_
@@ -105,7 +104,7 @@ A talk about PHP an community
 
 ## Cute Little Interpreters
 
-A 4 hour workshop where 
+A 4 hour workshop where participants iteratively build a toy programming language, giving it more and more capabilities as it goes on.
 
  * [PHP Benelux 2015](https://joind.in/event/phpbenelux-conference-2015/cute-little-interpreters)
 
