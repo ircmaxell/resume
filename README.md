@@ -2,12 +2,13 @@
 
 ## How to find me
 
+* Email: ircmaxell@php.net
 * Personal Blog: [blog.ircmaxell.com](https://blog.ircmaxell.com)
 * Twitter: [@ircmaxell](https://www.twitter.com/ircmaxell)
 * Github: [ircmaxell](https://www.github.com/ircmaxell)
 * YouTube: [ircmaxell](https://www.youtube.com/user/ircmaxell)
 * IRC: [`ircmaxell` on Freenode](irc://freenode/ircmaxell)
-* Linkedin: [ircmaxell](https://linkedin.com/in/ircmaxell)
+* LinkedIn: [ircmaxell](https://linkedin.com/in/ircmaxell)
 
 ## Job Titles
 
@@ -19,6 +20,7 @@
 ## Responsibilities
  
  * Management of developers
+ * Team building and hiring
  * Agile development
  * Developer **education**
  * Interfacing with remote and foreign developers
@@ -59,7 +61,7 @@ Hands-on experience with:
     * Terraform
     * Google Apps
 
-## Experience
+## Work History
 
 You can read more about the latest companies I worked by navigating to the [`experience`](experience/README.md) folder.
 
