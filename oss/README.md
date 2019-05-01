@@ -39,7 +39,7 @@ The [`password_compat`](https://github.com/ircmaxell/password_compat) project po
 
 # Other Projects
 
-[Github](https://github.com/ircmaxell?tab=repositories) and [Packagist](https://packagist.org/packages/ircmaxell/) detail the primary Open Source PHP packages that I built and shipped. There aare 
+[Github](https://github.com/ircmaxell?tab=repositories) and [Packagist](https://packagist.org/packages/ircmaxell/) detail open source contributions and PHP packages that I built and shipped.
 
 # Other Contributions
 
