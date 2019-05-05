@@ -17,7 +17,7 @@ Instructions:
 | Working relationship          | {what was our working relationship, eg: was I your manager, peer, were you my manager, etc} |
 | How long did we work together | {how long did we work together (approximately)}                                             |
 
-## Recomendation
+## Recommendation
 
 {A high level summary here}
 
@@ -27,7 +27,7 @@ Instructions:
 
 ## Biggest Strengths
 
-{What are Anthony's biggest strenghts?}
+{What are Anthony's biggest strengths?}
 
 ## Biggest Weaknesses
 
