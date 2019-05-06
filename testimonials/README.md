@@ -2,7 +2,7 @@
 
 These testimonials have been submitted by former coworkers. Additional or further references are available upon request.
 
-1. [{name}](2019-05-John%20Smith.md)
+1. [Dan DuLeone](2019-05-Dan%20DuLeone.md)
 
 ## Submitting a Testimonial
 

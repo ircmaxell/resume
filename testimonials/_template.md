@@ -6,6 +6,7 @@ Instructions:
 4. Fill out sections openly and honestly. Feel free to be as open as you want to be. Remove any sections you don't fill out (seriously, don't feel the need to fill every one, or even most of them. I'm happy with whatever you're comfortable sharing)
 5. Edit the `testimonials/README.md` to include a link to your testimonial.
 6. Open a Pull Request 
+7. Delete (or rename) repo after pull request is made
 
 # Testimonial: {name}
 
