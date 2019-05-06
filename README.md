@@ -72,3 +72,7 @@ You can read more about the latest companies I worked by navigating to the [`exp
 ## Conference Speaker
 
 A [partial list](speaker/README.md) of talks I have given as a speaker.
+
+## Testimonials
+
+Read [testimonials](testimonials/README.md) by people who have worked with me in the past.
