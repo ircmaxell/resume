@@ -10,14 +10,16 @@
 
 ## Recommendation
 
-If you're looking for someone to build or lead a team of engineers as they face interesting technical challenges in build a successful product focused business while realizing valuable personal and professional goals, then you should talk to Anthony, now.
+If you're looking for someone to build or lead a team of engineers as they face interesting technical challenges in building a successful product focused business while realizing valuable personal and professional goals then you should talk to Anthony, now.
 
 ## What is your most memorable accomplishment together
 
-With Anthony's insightful leadership and steadfast support we took on the task of bringing the live classroom experience offered at Lingo Live in house. We replaced third party offerings like Slack and Google hangouts while refocusing the experience away from raw video conferencing to position the software to more uniquely support the challenges of learning the skills of language and communication skills. 
+With Anthony's insightful leadership and steadfast support we took on the task of bringing the classroom experience offered at Lingo Live in house. We replaced third party offerings like Slack and Google hangouts while refocusing the experience away from raw video conferencing and position the software to more uniquely support the challenges of learning the skills of language and communication skills. 
 
 ## Biggest Strengths
 
+- seeing the connection between solid technical offerings and business goals
+- taking on new and varied responsibilities with grace and skill
 - decomposing complex technical requirements
 - setting attainable work goals across teams of varied experience and technical specialty
 - supporting the personal and professional growth of his direct reports
@@ -26,7 +28,7 @@ With Anthony's insightful leadership and steadfast support we took on the task o
 
 ## Biggest Weaknesses
 
-Anthony will do just about anything to ensure his team/company moves in a productive direction, even if that means he has to take on too much responsibility himself. This comes from both a strong sense of duty, but also his broad and growing skill set, however it can also come with a difficulty to admit when enough is enough and he's really doing three or four jobs at a time. This can cycle around to a similar, and sometimes worse, situation than he had originally hoped to solve.
+Anthony will do just about anything to ensure his team/company moves in a productive direction, even if that means he has to take on too much responsibility himself. This comes from both a strong sense of duty, but also his broad and growing skill set, however it can also come with a difficulty to admit when enough is enough and he's really doing three or four jobs at a time. This can cycle around to a similar, and sometimes worse, situation than he had originally hoped to correct.
 
 ## Advice for future employers
 
@@ -38,5 +40,5 @@ Anthony gets a lot of energy from working with other highly creative and talente
 
 ## Would you work with/for Anthony again?
 
-Without question. Anthony's crystal clear focus on supporting the members of his teams become their best selves both as engineers/employees as well as people in general had such a positive effect on my career when working together at Lingo Live that I'd relish the opportunity to be in the sort of technical environment again.
+Without question. Anthony's crystal clear focus on supporting the members of his teams in becoming their best selves both as engineers/employees as well as people in general had such a positive effect on my career when working together at Lingo Live that I'd relish the opportunity to be in the sort of technical environment again.
 
