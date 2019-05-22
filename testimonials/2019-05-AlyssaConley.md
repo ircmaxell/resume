@@ -10,11 +10,11 @@
 
 ## Recommendation
 
-I recommend Anthony for anyone who is looking to build high quality, ethical products that impact the world positively - from the employee, to the user, and beyond.  Anthony is passionate and bold, without being aggressive or overbeariing.  He works hard to builds rapport and a culture around his vision and leadership, seeking unity and algnment where necessary and is unafraid to oppose when he perceives risk.  I admire Anthony's approach to team building, management, and engineering ethics.  Many can benefit from his consult and contributions. 
+I recommend Anthony for anyone who is looking to build high quality, ethical products that impact the world positively - from the employee, to the user, and beyond.  Anthony is passionate and bold, without being aggressive or overbearing.  He works hard to builds rapport and a culture around his vision and leadership, seeking unity and alignment where necessary and is unafraid to oppose when he perceives risk.  I admire Anthony's approach to team building, management, and engineering ethics.  Many can benefit from his consult and contributions. 
 
 ## What is your most memorable accomplishment together
 
-Working through a time of crisis in the executive/leadership space.  At a time where there was deep distrust of the company leadership, Anthony played an integral role in developing the executive and leaderhsip team in concepts of "pscyhological safety" and "building trust."  His guidance (and our openness to the conversation) led our company out of culture crisis and turmoil and into forward momentum and better trust among colleagues and particularly from the company in the leadership team. Culture ebbs and flows, but without Anthony's partnership and strategy in this space, I believe Lingo Live would have lost most of it's engineering, product, and learning department. 
+Working through a time of crisis in the executive/leadership space.  At a time where there was deep distrust of the company leadership, Anthony played an integral role in developing the executive and leadership team in concepts of "psyhcological safety" and "building trust."  His guidance (and our openness to the conversation) led our company out of culture crisis and turmoil and into forward momentum and better trust among colleagues and particularly from the company in the leadership team. Culture ebbs and flows, but without Anthony's partnership and strategy in this space, I believe Lingo Live would have lost most of it's engineering, product, and learning department. 
 
 ## Biggest Strengths
 
@@ -22,7 +22,7 @@ Consideration of and commitment to long-term quality vs. unstable short term gai
 
 ## Biggest Weaknesses
 
-If Anthony is continually roadblocked in a way that diminishes his sense of value and voice, he can resort to the path of least resistance and give up on the "fight to be heard" and let those who have diminished his perspective "have their way." I think this is a common reaction for most people, but I do believe that Anthony has a particularly strong ethic and calcuated approach to his way of working, thinking, assessing, and analyzing, and I believe he can grow by reducing his emotional attachment to "what's right" so that his advocacy is less personally draining and he can extend his energy to push through and beyond the closed-mindedness or resistance of particularly stubborn individuals. 
+If Anthony is continually roadblocked in a way that diminishes his sense of value and voice, he can resort to the path of least resistance and give up on the "fight to be heard" and let those who have diminished his perspective "have their way." I think this is a common reaction for most people, but I do believe that Anthony has a particularly strong ethic and calculated approach to his way of working, thinking, assessing, and analyzing, and I believe he can grow by reducing his emotional attachment to "what's right" so that his advocacy is less personally draining and he can extend his energy to push through and beyond the closed-mindedness or resistance of particularly stubborn individuals. 
 
 ## Advice for future employers
 
